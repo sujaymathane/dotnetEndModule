@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BLL/BLL.csproj": {}
+  },
+  "projects": {
+    "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BLL/BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BLL/BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BLL/BLL.csproj",
+        "packagesPath": "/Users/sujaymathane/.nuget/packages/",
+        "outputPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sujaymathane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/Bol.csproj": {
+                "projectPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/Bol.csproj"
+              },
+              "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/DAL.csproj": {
+                "projectPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/Bol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/Bol.csproj",
+        "projectName": "Bol",
+        "projectPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/Bol.csproj",
+        "packagesPath": "/Users/sujaymathane/.nuget/packages/",
+        "outputPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sujaymathane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/DAL.csproj",
+        "packagesPath": "/Users/sujaymathane/.nuget/packages/",
+        "outputPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sujaymathane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/Bol.csproj": {
+                "projectPath": "/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/Bol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

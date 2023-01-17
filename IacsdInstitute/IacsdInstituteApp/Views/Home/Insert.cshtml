@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Insert Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">This page is to insert new user </h1>
+
+    <form action="/PostInsert" method="post">
+    <div>FirstName: <input type="text" name="firstname"></div>
+    <div>LastName: <input type="text" name="lastname"></div>
+    <div>Email: <input type="text" name="email"></div>
+    <div>Password: <input type="text" name="password"></div>
+    <button type="submit">Submit</button>
+
+    </form>
+</div>

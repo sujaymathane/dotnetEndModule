@@ -1,0 +1,18 @@
+﻿@using BOL;
+@{
+    ViewData["Title"] = "ShowAllUsers Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome, This are all users we have in our institute</h1>
+    @{
+        List<User> userlist=ViewData["Allusers"] as List<User>;
+            <table border="2px">
+                <tr><th>FirstName</th><th>LastName</th><th>EmailAddress</th><th>Password</th></tr>
+                @foreach (User user in userlist)
+                {
+                    <tr><td>@user.Firstname</td><td>@user.Lastname</td><td>@user.Email</td><td>@user.Password</td></tr>
+                }
+            </table>
+    }
+</div>

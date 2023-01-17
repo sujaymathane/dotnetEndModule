@@ -1,0 +1,12 @@
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/bin/Debug/net7.0/BOL.deps.json
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/bin/Debug/net7.0/BOL.dll
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/bin/Debug/net7.0/BOL.pdb
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/BOL.csproj.AssemblyReference.cache
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/BOL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/BOL.AssemblyInfoInputs.cache
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/BOL.AssemblyInfo.cs
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/BOL.csproj.CoreCompileInputs.cache
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/BOL.dll
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/refint/BOL.dll
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/BOL.pdb
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/BOL/obj/Debug/net7.0/ref/BOL.dll

@@ -1,0 +1,15 @@
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/bin/Debug/net7.0/DAL.deps.json
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/bin/Debug/net7.0/DAL.dll
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/bin/Debug/net7.0/DAL.pdb
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/bin/Debug/net7.0/BOL.dll
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/bin/Debug/net7.0/BOL.pdb
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.csproj.CopyComplete
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.dll
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/refint/DAL.dll
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/DAL.pdb
+/Users/sujaymathane/Desktop/IT world/2.PG-Dac/Dotnet/IacsdInstitute/DAL/obj/Debug/net7.0/ref/DAL.dll
